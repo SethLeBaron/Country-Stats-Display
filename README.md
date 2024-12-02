@@ -1,1 +1,1 @@
-Utilizing countries API, javascript, html, and css, this site makes a full request and makes a card displaying the data of your selected country. just input the name of the country and it will be added, not case sensitive
+Utilizing countries API, javascript, html, and css, this site makes a full request and makes a card displaying the data of your selected country. just input the name of the country and it will be added, not case sensitive.
